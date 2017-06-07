@@ -3,9 +3,7 @@
 ## Web
 
 * http://www.because-recollection.com/
-
-⋅⋅⋅ animaciones para canciones y que puedas saber su info
-
+    ⋅⋅⋅ animaciones para canciones y que puedas saber su info
 * https://en.playkot.com/
 ⋅⋅⋅ empresa de applicaciones y juegos
 * http://seedsandsupply.com/
