@@ -1,7 +1,7 @@
 # Páginas Web 
 
 ## Paginas Utiles que dio Ivan
-* babeljs.lo
+* https://babeljs.io
 ⋅⋅⋅ Como se utiliza antes y despues los comandos de JS
 ------
 ## Ejercicios
