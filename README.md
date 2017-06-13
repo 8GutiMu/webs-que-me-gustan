@@ -1,6 +1,8 @@
 # Páginas Web 
 
-
+## Paginas Utiles que dio Ivan
+* babeljs.lo
+⋅⋅⋅ Como se utiliza antes y despues los comandos de JS
 ------
 ## Ejercicios
 * http://www.codeupstart.com/
