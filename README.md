@@ -43,6 +43,8 @@
 ## Practicos
 * http://tobiasahlin.com/spinkit/
 ⋅⋅⋅ para sacar animaciones de espera
+* https://daneden.github.io/animate.css/
+⋅⋅⋅ animaciones de textos
 * http://vincentgarreau.com/particles.js/
 ⋅⋅⋅ para poner particulas (moleculas) ej: http://falconmasters.com/demos/particulas/
 ----
