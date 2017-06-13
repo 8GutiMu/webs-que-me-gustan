@@ -101,4 +101,6 @@
 ⋅⋅⋅ se basa en strings (Se recomienda este)
 * https://gruntjs.com/
 ⋅⋅⋅ se basa en temporales
-
+----
+## Public APIs
+* https://github.com/toddmotto/public-apis
