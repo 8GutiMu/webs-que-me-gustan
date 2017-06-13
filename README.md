@@ -79,3 +79,9 @@
 ## Libros
 * http://cevichejs.com/
 ⋅⋅⋅ guia de objetos
+----
+## Automatizadores de Tarea
+* http://gulpjs.com/
+⋅⋅⋅ se basa en strings (Se recomienda este)
+* https://gruntjs.com/
+⋅⋅⋅ se basa en temporales
