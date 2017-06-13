@@ -39,5 +39,11 @@
 ⋅⋅⋅
 * https://www.hackerrank.com
 ⋅⋅⋅
+----
+## Practicos
+* http://tobiasahlin.com/spinkit/
+⋅⋅⋅ para sacar animaciones de espera
+* http://vincentgarreau.com/particles.js/
+⋅⋅⋅ para poner particulas (moleculas) ej: http://falconmasters.com/demos/particulas/
 * 
 ⋅⋅⋅
