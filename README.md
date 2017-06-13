@@ -33,8 +33,8 @@
 ⋅⋅⋅ Mercurial
 ----
 ## Frameworks
-http://materializecss.com/
-http://getbootstrap.com/
+* http://materializecss.com/
+* http://getbootstrap.com/
 ----
 ## Web que me gustan
 * http://www.because-recollection.com/
