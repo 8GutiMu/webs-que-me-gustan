@@ -21,7 +21,7 @@
 * https://www.hackerrank.com
 ⋅⋅⋅
 ----
-## Practicos
+## Prácticos
 * http://tobiasahlin.com/spinkit/
 ⋅⋅⋅ para sacar animaciones de espera
 * https://daneden.github.io/animate.css/
