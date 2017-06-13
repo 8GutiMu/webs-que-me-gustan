@@ -30,6 +30,8 @@
 ⋅⋅⋅ para poner particulas (moleculas) ej: http://falconmasters.com/demos/particulas/
 * https://tympanus.net/codrops/
 ⋅⋅⋅ codrops
+* https://projects.lukehaas.me/css-loaders/
+⋅⋅⋅ spinners
 ----
 ## Sistema de control de versiones
 * http://subversion.apache.org/
