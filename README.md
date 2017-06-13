@@ -3,7 +3,14 @@
 ## Paginas Utiles que dio Ivan
 * https://babeljs.io
 ⋅⋅⋅ Como se utiliza antes y despues los comandos de JS
+* https://developers.google.com/speed/pagespeed/insights/
+⋅⋅⋅ Mide que tan buena es la carga de una pagina
 ------
+## Mockups
+* https://moqups.com/
+* https://balsamiq.com/
+* https://proto.io/
+-----
 ## Ejercicios
 * http://www.codeupstart.com/
 ⋅⋅⋅
@@ -66,3 +73,9 @@
 ⋅⋅⋅ git hub con enlaces de lo que un programador deberia diseñar 
 * http://jessandruss.us/
 ⋅⋅⋅ historia de amor de dos personas <3
+* https://flukeout.github.io/
+⋅⋅⋅ juego para pseudoclases
+----
+## Libros
+* http://cevichejs.com/
+⋅⋅⋅ guia de objetos
