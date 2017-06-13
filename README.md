@@ -30,3 +30,14 @@
 * http://jessandruss.us/
 ⋅⋅⋅ historia de amor de dos personas <3
 ------
+## Ejercicios
+* http://www.codeupstart.com/
+⋅⋅⋅
+* https://www.codewars.com
+⋅⋅⋅
+* https://codefights.com/
+⋅⋅⋅
+* 
+⋅⋅⋅
+* 
+⋅⋅⋅
