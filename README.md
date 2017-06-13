@@ -1,6 +1,6 @@
 # Páginas Web 
 
-## Paginas Utiles que dio Ivan
+## Paginas Útiles que dio Ivan
 * https://babeljs.io
 ⋅⋅⋅ Como se utiliza antes y despues los comandos de JS
 * https://developers.google.com/speed/pagespeed/insights/
@@ -77,6 +77,10 @@
 ⋅⋅⋅ juego para pseudoclases
 * https://yarnpkg.com/lang/en/
 ⋅⋅⋅ instala dependecias
+* https://webpack.github.io/
+⋅⋅⋅ module Loader/Boudler
+* http://browserify.org/
+⋅⋅⋅ module Loader/Boudler
 ----
 ## Libros
 * http://cevichejs.com/
@@ -87,3 +91,4 @@
 ⋅⋅⋅ se basa en strings (Se recomienda este)
 * https://gruntjs.com/
 ⋅⋅⋅ se basa en temporales
+
