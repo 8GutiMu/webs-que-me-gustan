@@ -75,6 +75,8 @@
 ⋅⋅⋅ historia de amor de dos personas <3
 * https://flukeout.github.io/
 ⋅⋅⋅ juego para pseudoclases
+* https://yarnpkg.com/lang/en/
+⋅⋅⋅ instala dependecias
 ----
 ## Libros
 * http://cevichejs.com/
