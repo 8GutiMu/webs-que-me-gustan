@@ -45,5 +45,15 @@
 ⋅⋅⋅ para sacar animaciones de espera
 * http://vincentgarreau.com/particles.js/
 ⋅⋅⋅ para poner particulas (moleculas) ej: http://falconmasters.com/demos/particulas/
-* 
-⋅⋅⋅
+----
+## Sistema de control de versiones
+* http://subversion.apache.org/
+⋅⋅⋅ Subversion
+* http://git-scm.com
+⋅⋅⋅ Git
+* http://fossil-scm.org
+⋅⋅⋅ Fossil
+* https://www.mercurial-scm.org/
+⋅⋅⋅ Mercurial
+----
+## Frameworks
