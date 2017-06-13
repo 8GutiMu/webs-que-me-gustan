@@ -47,7 +47,7 @@
 * http://foundation.zurb.com/
 * https://semantic-ui.com/
 * http://todomvc.com/ 
-⋅⋅⋅ te ayuda a seleccionar un framework para ti :D
+⋅⋅⋅ te ayuda a seleccionar un MVC (modelo vista controlador) framework para ti :D 
 
 ## Preprocesador
 * http://sass-lang.com/
