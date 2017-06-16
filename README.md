@@ -20,6 +20,8 @@
 ⋅⋅⋅
 * https://www.hackerrank.com
 ⋅⋅⋅
+* https://projecteuler.net/
+⋅⋅⋅
 ----
 ## Prácticos
 * http://tobiasahlin.com/spinkit/
@@ -29,9 +31,11 @@
 * http://vincentgarreau.com/particles.js/
 ⋅⋅⋅ para poner particulas (moleculas) ej: http://falconmasters.com/demos/particulas/
 * https://tympanus.net/codrops/
-⋅⋅⋅ codrops
+⋅⋅⋅ codrops Para hacer animaciones
 * https://projects.lukehaas.me/css-loaders/
 ⋅⋅⋅ spinners
+* https://appelsiini.net/projects/lazyload/
+⋅⋅⋅ scroll infinito
 ----
 ## Sistema de control de versiones
 * http://subversion.apache.org/
@@ -93,6 +97,8 @@
 ⋅⋅⋅ module Loader/Boudler
 * http://browserify.org/
 ⋅⋅⋅ module Loader/Boudler
+* https://www.httrack.com/
+⋅⋅⋅ website copier
 ----
 ## Libros
 * http://cevichejs.com/
@@ -116,3 +122,8 @@
 * https://github.com/mzabriskie/axios
 * https://davidwalsh.name/fetch
 * https://visionmedia.github.io/superagent/
+----
+## Lecturas
+* https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02
+* https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b
+
