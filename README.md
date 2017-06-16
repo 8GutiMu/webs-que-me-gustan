@@ -77,13 +77,6 @@
 * http://www.kiinnostus.fi/autokuume/
 ⋅⋅⋅ no esntendi de que era pero esta padre jajaj :D 
 ------
-## Portafolios que me gustan
-* https://bonhomme.lol/
-⋅⋅⋅ front end developer 
-* https://www.raoul-gaillard.com/work
-⋅⋅⋅ front end developer 
-* http://www.rleonardi.com/interactive-resume/
-------
 ## Otros 
 * https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 ⋅⋅⋅ git hub con enlaces de lo que un programador deberia diseñar 
@@ -127,3 +120,28 @@
 * https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02
 * https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b
 
+
+------
+## Portafolios interesantes para mi :D
+* https://jacekjeznach.com/contact/
+⋅⋅⋅ front end
+* http://www.danielspatzek.com/Home
+⋅⋅⋅ diseñador gráfico
+* https://arturowibawa.com/
+⋅⋅⋅ web developer
+* https://bonhomme.lol/
+⋅⋅⋅ front end developer 
+* https://www.raoul-gaillard.com/work
+⋅⋅⋅ front end developer 
+* http://www.rleonardi.com/interactive-resume/
+⋅⋅⋅
+* https://caferati.me/
+⋅⋅⋅ web developer
+* http://www.denisechandler.com/
+⋅⋅⋅ diseñadora gráfica(tipografias)
+* https://imdev.in/
+⋅⋅⋅ web design 
+* http://www.adandypunk.com/
+⋅⋅⋅ no se si es ingeniero, o diseñador o que pero esta padre su pagina rara :D 
+* http://www.guillaumejuvenet.com/#home
+⋅⋅⋅ developers
