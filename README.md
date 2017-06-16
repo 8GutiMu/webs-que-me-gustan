@@ -111,3 +111,8 @@
 * https://firebase.google.com
 * https://socket.io/
 * https://www.heroku.com/
+----
+## Librerias de AJAX
+* https://github.com/mzabriskie/axios
+* https://davidwalsh.name/fetch
+* https://visionmedia.github.io/superagent/
